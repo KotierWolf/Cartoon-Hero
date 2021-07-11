@@ -6,6 +6,7 @@ body{
 }
 
 header{
+	background-image: url(https://i.gifer.com/J4o.gif);
 	background-color:  #538009;
 	text-align:  center;
 	padding-top: 50px;
@@ -18,7 +19,7 @@ h1, h2{
 }
 
 header h1 {
-	color:  black;
+	color:  white;
 }
 
 header img{
